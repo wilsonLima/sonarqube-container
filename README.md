@@ -6,8 +6,8 @@ Containers do Sonarqube e suas dependências.
 Lista de ferramentas
 ------------
 
-- PostgreSQL versão 1.5  (Dependência do Sonarqube)
-- Sonarqube versão 7.9-community
+- PostgreSQL versão 13.2  (Dependência do Sonarqube)
+- Sonarqube versão 8.9.0-community
 
 
 Script para criar as pastas dos volumes
