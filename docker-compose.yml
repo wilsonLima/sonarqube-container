@@ -1,6 +1,6 @@
 services:
   postgres-sonar:
-    image: postgres:15
+    image: postgres:17
     container_name: postgres-sonar
     environment:
       POSTGRES_USER: sonar
